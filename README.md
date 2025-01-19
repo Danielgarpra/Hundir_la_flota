@@ -1,7 +1,7 @@
 ![image](/Hundir_la_flota/img/hundir-la-flota-juego-de-mesa.jpg)
 
 # Hundir la flota/Sink the Fleet
-*Spanish Readme:*
+*Spanish Readme:*  
 Este repositorio es una implementación en Python del clásico juego de mesa "Hundir la flota". Los jugadores colocan estratégicamente su flota en una cuadrícula y tratan de localizar y hundir los barcos de su oponente antes de que destruyan su propia flota.
 
 Al final de este Readme se muestra un ejemplo del juego
@@ -35,7 +35,7 @@ Al final de este Readme se muestra un ejemplo del juego
 5. El primer jugador en hundir todos los barcos del oponente gana.
 
 # Sink the fleet
-*English Readme:*
+*English Readme:*  
 Sink the Fleet is a Python implementation of the classic board game "Battleship." Players strategically position their fleet on a grid and attempt to locate and sink their opponent's ships before their own fleet is destroyed.
 
 At the end of this Readme, an example of the game is shown. This program is made in Spanish version
@@ -69,3 +69,5 @@ At the end of this Readme, an example of the game is shown. This program is made
 5. The first player to sink all of their opponent's ships wins.
 
 ![image](/Hundir_la_flota/img/Game.png)
+
+![image](/Hundir_la_flota/img/Game_2.png)
