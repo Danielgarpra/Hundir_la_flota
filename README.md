@@ -68,6 +68,9 @@ At the end of this Readme, an example of the game is shown. This program is made
 
 5. The first player to sink all of their opponent's ships wins.
 
+Case 1: Gameboard 8x8
 ![image](/Hundir_la_flota/img/Game.png)
+
+Case 2: Gameboard 6x6
 
 ![image](/Hundir_la_flota/img/Game_2.png)
