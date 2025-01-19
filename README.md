@@ -40,7 +40,7 @@ Sink the Fleet is a Python implementation of the classic board game "Battleship.
 
 At the end of this Readme, an example of the game is shown. This program is made in Spanish version
 
-## Características
+## Features
 
 * Single-player mode against a basic AI.
 
@@ -50,7 +50,7 @@ At the end of this Readme, an example of the game is shown. This program is made
 
 * Randomized ship placement for faster gameplay.
 
-## Reglas del Juego
+## Rules of the game
 
 1. Each player places their fleet on a grid (with a customizable size chosen beforehand).
 
